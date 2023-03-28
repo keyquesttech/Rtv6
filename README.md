@@ -3,10 +3,6 @@
    <a href="https://www.behance.net/matiasms">
     <img width="59" src="https://github.com/keyquesttech/Rtv6/blob/main/Imgs/behance.png?raw=true" align="center">
 </p>
-
-<div align="center" >
-
- ![GitHub Repo stars](https://img.shields.io/github/stars/keyquesttech/Rtv6) 
  
  <p align="center" >For info and sales PM via discord at: TC#4730</p>
  
