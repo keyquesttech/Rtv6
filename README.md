@@ -27,6 +27,8 @@
   <h2 align="center" style="margin-bottom: 0px;">RtV6 1.1:</h2>
 </p>
 
+</div>
+
  - Brass Body.
  - Titanium alloy inner tube.
  - Adds 13mm from heater base to tip of nozzle.
