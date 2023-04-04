@@ -31,7 +31,7 @@
 
  - Brass Body.
  - Titanium alloy inner tube.
- - Adds 13mm from heater base to tip of nozzle.
+ - Adds 6mm from heater base to tip of nozzle.
 
 <p align="center" style="margin-bottom: 0px !important;">
   <img width="900" src="https://github.com/keyquesttech/Rtv6/blob/main/Imgs/1.PNG?raw=true" alt="Keyquest logo" align="center">
@@ -64,7 +64,7 @@ Start with +10c and do a temperature calibration print. You may automate this wi
  Or do it manually
  
 **Adjust Z offset:**
-Since the adapter is 13mm taller than the standard revo nozzle you will need to re-set you home offset, to do this there's many ways and some depend on your printer/setup. I'm sure you can figure this point out.
+Since the adapter is 6mm taller than the standard revo nozzle you will need to re-set you home offset, to do this there's many ways and some depend on your printer/setup. I'm sure you can figure this point out.
 
 **Cooling solution:**
-As mentioned above the nozzle is 13mm taller, so the standard Revo cooling solution won't work. You will need to create your own, add stronger fans to your toolhead or add external cooling, just make sure it points to the part, otherwise you will reduce the performance of the adapter.
+As mentioned above the nozzle is 6mm taller, so the standard Revo cooling solution won't work. You will need to create your own, add stronger fans to your toolhead or add external cooling, just make sure it points to the part, otherwise you will reduce the performance of the adapter.
