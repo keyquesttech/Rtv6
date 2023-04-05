@@ -24,7 +24,7 @@
   ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/w/keyquesttech/Rtv6?)
 
 <p align="center" style="margin-top: 100px !important;">
-  <h2 align="center" style="margin-bottom: 0px;">RtV6 1:</h2>
+  <h2 align="center" style="margin-bottom: 0px;">RtV6 V1:</h2>
 </p>
 
 </div>
