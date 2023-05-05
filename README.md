@@ -3,6 +3,8 @@
   <img width="100" src="https://github.com/keyquesttech/Rtv6/blob/main/Imgs/nbgicon.png?raw=true" alt="Keyquest logo" align="center">
    <a href="https://www.behance.net/matiasms">
     <img width="59" src="https://github.com/keyquesttech/Rtv6/blob/main/Imgs/behance.png?raw=true" align="center">
+    <img width="59" src="https://github.com/keyquesttech/Rtv6/blob/main/Imgs/gogo.png?raw=true" align="center">
+    <a href="https://igg.me/at/rtv6/x/33605500#/">
 </p>
 
  
