@@ -12,7 +12,7 @@
 </p>
  
  <p align="center" style="margin-top: 100px !important;">
-  <h2 align="center" style="margin-bottom: 0px;">For info and sales PM via discord at: TC#4730 or click the indiegogo image above</h2>
+  <h2 align="center" style="margin-bottom: 30px;">For info and sales PM via discord at: TC#4730 or click the indiegogo image above</h2>
 </p>
  
 </div>
