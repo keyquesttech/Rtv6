@@ -11,8 +11,8 @@
     <img width="300" src="https://github.com/keyquesttech/Rtv6/blob/main/Imgs/gogo.png?raw=true" align="center">
 </p>
  
- <p align="center" style="margin-top: 100px !important;">
-  <h2 align="center" style="margin-bottom: 30px;">For info and sales PM via discord at: TC#4730 or click the indiegogo image above</h2>
+ <p align="center" style="margin-top: 200px !important;">
+  <h2 align="center" style="margin-bottom: 100px;">For info and sales PM via discord at: TC#4730 or click the indiegogo image above</h2>
 </p>
  
 </div>
