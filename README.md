@@ -1,9 +1,9 @@
 
 <p align="center" style="margin-bottom: 0px !important;">
  <a href="https://github.com/keyquesttech">
-  <img width="100" src="https://github.com/keyquesttech/Rtv6/blob/main/Imgs/nbgicon.png?raw=true" alt="Keyquest logo" align="center">
+  <img width="150" src="https://github.com/keyquesttech/Rtv6/blob/main/Imgs/nbgicon.png?raw=true" alt="Keyquest logo" align="center">
    <a href="https://www.behance.net/matiasms">
-    <img width="59" src="https://github.com/keyquesttech/Rtv6/blob/main/Imgs/behance.png?raw=true" align="center">
+    <img width="150" src="https://github.com/keyquesttech/Rtv6/blob/main/Imgs/behance.png?raw=true" align="center">
 </p>
 
 <p align="center" style="margin-bottom: 0px !important;">
@@ -12,7 +12,7 @@
 </p>
  
  <p align="center" style="margin-top: 100px !important;">
-  <h2 align="center" style="margin-bottom: 0px;">For info and sales PM via discord at: TC#4730</h2>
+  <h2 align="center" style="margin-bottom: 0px;">For info and sales PM via discord at: TC#4730 or click the indiegogo image above</h2>
 </p>
  
 </div>
