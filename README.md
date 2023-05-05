@@ -3,7 +3,7 @@
  <a href="https://github.com/keyquesttech">
   <img width="150" src="https://github.com/keyquesttech/Rtv6/blob/main/Imgs/nbgicon.png?raw=true" alt="Keyquest logo" align="center">
    <a href="https://www.behance.net/matiasms">
-    <img width="150" src="https://github.com/keyquesttech/Rtv6/blob/main/Imgs/behance.png?raw=true" align="center">
+    <img width="80" src="https://github.com/keyquesttech/Rtv6/blob/main/Imgs/behance.png?raw=true" align="center">
 </p>
 
 <p align="center" style="margin-bottom: 0px !important;">
