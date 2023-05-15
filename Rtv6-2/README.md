@@ -28,4 +28,6 @@
   ![GitHub forks](https://img.shields.io/github/forks/keyquesttech/Rtv6?color=%238ce2d0)
   ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/w/keyquesttech/Rtv6?)
 
+<div align="center" >
+ 
  <img width="1000" src="https://github.com/keyquesttech/Rtv6/blob/main/Imgs/RtV6-2-assembly.PNG?raw=true" align="center">
