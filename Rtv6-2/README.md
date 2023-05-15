@@ -27,3 +27,5 @@
   ![GitHub Repo stars](https://img.shields.io/github/stars/keyquesttech/Rtv6?color=%23ff8672)
   ![GitHub forks](https://img.shields.io/github/forks/keyquesttech/Rtv6?color=%238ce2d0)
   ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/w/keyquesttech/Rtv6?)
+
+ <img width="300" src="https://github.com/keyquesttech/Rtv6/blob/main/Imgs/RtV6-2-assembly.PNG?raw=true" align="center">
