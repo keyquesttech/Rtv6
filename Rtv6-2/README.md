@@ -16,9 +16,9 @@
 </p>
  
 </div>
-<p align="center" >RtV6 (Revo to V6)</p>
-<p align="center" >A revo nozzle adapter to make any V6 nozzle a quick change nozzle</p>
-<p align="center" >Revo CHT? Revo Diamond? Revo Emerald?</p>
+<p align="center" >RtV6 </p>
+<p align="center" >A rvo nozzle adapter to make any V6 nozzle a quick change nozzle</p>
+<p align="center" >Rvo CHT? Revo Diamond? Rvo Emerald?</p>
 <p align="center" >All possible now.</p>
 </div>
 
