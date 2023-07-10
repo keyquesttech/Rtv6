@@ -4,7 +4,7 @@
         <tr>
             <th align="left">Mount</th>
             <th align="center">Designer</th>
-            <td align="left">Designed and contributed by Matias M.</td>
+            <td align="center">Designed and contributed by Matias M.</td>
             <td align="center">Designed and contributed by Matias M.</td>
             <td align="center">Designed and contributed by Olof Ogland.</td>
         </tr>
