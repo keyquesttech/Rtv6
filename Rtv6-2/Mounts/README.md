@@ -17,10 +17,5 @@
 
 </div>
 <div align="center" >
-  
-</div>
 
 ![GitHub forks](https://img.shields.io/github/forks/keyquesttech/Rtv6)
-
-</div>
-<div align="center" >
