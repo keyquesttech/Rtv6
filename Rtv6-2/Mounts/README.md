@@ -2,13 +2,13 @@
 <table>
     <thead>
         <tr>
-            <th align="left">Column1</th>
-            <th align="center">Column1</th>
+            <th align="left">Mount</th>
+            <th align="center">Designer</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td align="left">Column1</td>
+            <td align="left">Mini_afterburner_SLS.stl</td>
             <td align="center">Column1</td>
         </tr>
     </tbody>
