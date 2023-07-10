@@ -4,29 +4,25 @@
         <tr>
             <th align="left">Mount</th>
             <th align="center">Designer</th>
-            <td align="left">Mini_afterburner_0.2.stl</td>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td align="left">Mini_afterburner_0.2.stl</td>
             <td align="center">Mini_afterburner_SLS.stl</td>
+            <td align="center">prusa-mk3s-fan_shroud.step</td>
+        </tr>
+    </tbody>
+    </thead>
+    <tbody>
+        <tr>
+            <td align="left">Designed and contributed by Matias M.</td>
+            <td align="center">Designed and contributed by Matias M.</td>
+            <td align="center">Designed and contributed by Olof Ogland.</td>
         </tr>
     </tbody>
 </table>
 <p></p>
-
-</div>
-
-|Mount|Designer|
-|--|--|
-|**Mini_afterburner_0.2.stl**|Designed and contributed by Matias M.|
-|**Mini_afterburner_SLS.stl**|Designed and contributed by Matias M.   |
-|**prusa-mk3s-fan_shroud.step**|Designed and contributed by Olof Ogland.|
-
-</div>
-
-<p align="center" ></p>
 
 </div>
 
