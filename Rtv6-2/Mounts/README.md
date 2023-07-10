@@ -11,16 +11,12 @@
             <td align="left">Mini_afterburner_0.2.stl</td>
             <td align="center">Mini_afterburner_SLS.stl</td>
             <td align="center">prusa-mk3s-fan_shroud.step</td>
-        </tr>
-    </tbody>
-    </thead>
-    <tbody>
-        <tr>
             <td align="left">Designed and contributed by Matias M.</td>
             <td align="center">Designed and contributed by Matias M.</td>
             <td align="center">Designed and contributed by Olof Ogland.</td>
         </tr>
     </tbody>
+    </thead>
 </table>
 <p></p>
 
