@@ -10,7 +10,7 @@
         <tr>
             <td align="center">Mini_afterburner_0.2.stl</td>
             <td align="center">Mini_afterburner_SLS.stl</td>
-            <td align="center">prusa-mk3s-fan_shroud.step</td>
+            <td align="right">prusa-mk3s-fan_shroud.step</td>
         </tr>
     </tbody>
     </thead>
