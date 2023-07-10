@@ -9,7 +9,7 @@
     <tbody>
         <tr>
             <td align="left">Mini_afterburner_SLS.stl</td>
-            <td align="center">Column1</td>
+            <td align="center">Mini_afterburner_SLS.stl</td>
         </tr>
     </tbody>
 </table>
