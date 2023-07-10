@@ -5,14 +5,15 @@
 |**prusa-mk3s-fan_shroud.step**|Designed and contributed by Olof Ogland.|
 
 </div>
+</div>
+
+</div>
 <p align="center" >Parts may not fit perfectly or perform as well as original.
 <p align="center" > All designs are fall under the GNU General Public License.
 </div>
 <div align="center" >
 
 </div>
-
 ![GitHub forks](https://img.shields.io/github/forks/keyquesttech/Rtv6)
-
 </div>
 <div align="center" >
